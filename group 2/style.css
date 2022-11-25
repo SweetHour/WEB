@@ -1,0 +1,27 @@
+body{
+    background: darkgray;
+}
+
+header{
+    background: lightgray;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+main{
+    background: white;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    width: 80%;
+}
+
+
+
